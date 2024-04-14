@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TransitApp</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidzA0NzUyNDAiLCJhIjoiY2x1czh1OHoxMGY3MjJxa2M3czVlZnM0byJ9.x7gcOgH2QH0f846clftvxg</string>
+</resources>
